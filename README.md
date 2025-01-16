@@ -37,6 +37,11 @@ And I'm a software engineer:
 
 
 #### Follow me on my social networks:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/alexalvess/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-lucas-marques/)](https://www.linkedin.com/in/dev-lucas-marques/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=[https://medium.com/@alexalvess](https://medium.com/@lunatec09))]([[https://medium.com/@alexalvess](https://medium.com/@lunatec09)](https://medium.com/@lunatec09))
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=[https://www.instagram.com/alex.as25/](https://www.instagram.com/lucas.marquessv/))]([https://www.instagram.com/lucas.marquessv/](https://www.instagram.com/lucas.marquessv/))
+
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@alexalvess)](https://medium.com/@alexalvess)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@lunatec09)](https://medium.com/@lunatec09)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/alex.as25/)](https://www.instagram.com/alex.as25/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://medium.com/@lunatec09/)](https://medium.com/@lunatec09/)
