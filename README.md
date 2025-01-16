@@ -10,7 +10,7 @@ And I'm a software engineer:
  - 🤓 C# Expert
  - ❤️ I also love best practices and design patterns
  - 🧡 Passionate about Microservices
- - 😁 I am currently specializing in Software Architecture
+ - 😁 I am a specialist in the field of Software Architecture
 
 ##
 
